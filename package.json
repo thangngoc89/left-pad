@@ -1,0 +1,32 @@
+{
+  "name": "left-pad",
+  "version": "1.0.0",
+  "description": "String left-pad",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "scripts": {
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thangngoc89/left-pad.git"
+  },
+  "keywords": [
+    "string",
+    "left",
+    "pad",
+    "start"
+  ],
+  "author": "Khoa Nguyen @thangngoc89 <hi@khoanguyen.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thangngoc89/left-pad/issues"
+  },
+  "homepage": "https://github.com/thangngoc89/left-pad#readme",
+  "devDependencies": {
+    "ava": "^0.13.0",
+    "nyc": "^6.1.1"
+  }
+}
